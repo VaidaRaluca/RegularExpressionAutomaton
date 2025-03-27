@@ -79,5 +79,7 @@ The `Automaton` class represents an **NFA or DFA**, supporting operations like *
    - `operator<<`: Prints the automaton in a readable format.
 
 ---
+## Learning Outcomes
+Building this application allowed me to gain a deeper understanding of formal languages and automata theory by converting regular expressions into NFAs and then into DFAs. I enhanced my algorithmic thinking by implementing state transitions, epsilon closures, and minimization techniques. Additionally, this project improved my proficiency in C++ by utilizing data structures like sets and maps to efficiently construct and optimize finite automata.
 
 ##
